@@ -13,6 +13,8 @@ public class InserirNoBanco {
 
 	public static void main(String[] args) {
 		
+		//Inserir
+		
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		Connection conn = null;
 		PreparedStatement st = null;
